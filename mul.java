@@ -6,3 +6,4 @@ public class mul {
         System.out.println("The product of a and b is: " + product);
     }
 }
+This code defines a class named `mul`
