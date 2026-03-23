@@ -6,3 +6,4 @@ class sub{
         System.out.println("The difference of a and b is: " + difference);
     }   
 }
+This code defines a class named `sub`
